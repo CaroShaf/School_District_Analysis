@@ -14,10 +14,14 @@ Resources utilized:  Python 3.7.9, Pandas library, Jupyter Notebook, Conda Pytho
 
 ## Results
 
-Removing the 9th grade Thomas High School students did not make a markable change in district wide analysis.  All indicators were within 1% of their pre-filtered analysis.
-However, if looking at grouping of students' grades there are some suspicious patterns among some of them.  There are significantly more high 90s percentage scores in math than in
-the corresponding schools' 10-12th grade classes.  There are also some students that have high 90s in reading and math.  While this could be true, it is unlikely that they would
-differ from the upper grades.  Almost without variation, within schools the percentage of passing in reading, math and overall passing remains constant.  This can be seen
+Removing the 9th grade Thomas High School students did not make a markable change in district wide analysis, as can be seen in the table below.  All indicators were within 1% of 
+their pre-filtered analysis. However, if looking at small numbers of students' grades there are some suspicious patterns among some of them.  There are significantly more high
+90s percentage scores in math than in the corresponding school's 10-12th grade classes.  There are also some students that have high 90s in reading and math.  While this could
+be true, it is unlikely that they would differ so greatly from the upper grades.  Almost without variation, within schools, the percentage of passing in reading, math and 
+overall passing remains constant over all grades.  The academic dishonesty is likely not widespread and it is recommended to investigate this. THS is already a top performing
+school, so there may be opportunity to make sure that students are not under greater pressure to perform and resorting to cheating to maintain the standards that have been set.
+
+[District Wide Metrics](https://github.com/CaroShaf/School_District_Analysis/blob/main/Resources/District_overall.png)
 
 * % Passing Math Scores
 * % Passing Reading Scores
