@@ -14,6 +14,12 @@ Overview of the school district analysis:
 The purpose of this analysis is well defined (3 pt).
 Results:
 
+Maria, chief data scientist of City School System, has asked for some assistance with preparing reports related to 15 schools and all students' standardized test scores in math
+and reading for analysis on school performance and budgeting.  With nearly 40, 000 students' data collected, Python, using the Pandas library, is considered the tool of choice for
+its ability to handle large data sets.  Though analysis of mean scores across schools and grades is fairly routine, Maria asked for assistance to compare 9th graders at the Thomas High School's data before and after including them in aggregate scores.  It had been reported that there may have been widespread academic dishonesty among this class.  The data cleaning process did take out several hundred "joke" titles, such as PhD, DDS and Dr., but this was not included in the analysis of this particular group of scores.
+
+Python 3.7.9, Pandas library, Jupyter Notebook, Conda Python environment
+
 There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
 Summary:
 
